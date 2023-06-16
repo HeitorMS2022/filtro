@@ -1,0 +1,16 @@
+body{
+    background-image: url("fundo.jpg");
+}
+#oi{
+    font-size: 25px;
+}
+canvas{
+    background-color: white;
+    animation-name: kkkkkk;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes kkkkkk{
+    from {box-shadow: 2px 2px 40px yellow;}
+    to {box-shadow: 2px 2px 40px cyan;}
+}
